@@ -328,7 +328,7 @@ box img {
 }
 ```
 ## Hasil Output
-![gambar 9](foto/1.png)
+![foto 1](https://github.com/yudifermana/lab6web/assets/115516653/f296f02e-c84e-47c7-a181-553a70a6286f)
 ## Laporan Praktikum
 1. Buatlah repository baru dengan nama Lab6Web.
 2. Kerjakan semua latihan yang diberikan sesuai urutannya.
