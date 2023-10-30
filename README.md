@@ -1,7 +1,7 @@
 # Lab6web
-# Nama : Muhammad Din Al Ayubi
+# Nama : yudi Fermana
 # Kelas : TI.22.A3
-# NIM : 312210293
+# NIM : 312210321
 
 ## Praktikum 6: Web Framework
 ## Instruksi Praktikum
@@ -16,7 +16,7 @@ Instruksi Praktikum
 * Persiapan membuat dokumen HTML dengan nama file ```lab6_css_framework``` seperti berikut.
 ## Membuat Layout Sederhana
 * Berdasarkan gambar layout web berikut, buatlah menggunakan Twitter Bootstrap.
-![gambar 9](foto/1.png)
+![foto 1](https://github.com/yudifermana/lab6web/assets/115516653/6058d25e-d2fe-4336-995c-e48b976262e2)
 ## Buat folder baru dengan nama ```lab6_css_framework```,  dan file css dengan nama ```style.css```.
 ```python
 <!DOCTYPE html>
